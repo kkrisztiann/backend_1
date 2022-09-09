@@ -5,13 +5,13 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "stmt":"nodemon server.js"
+    "start":"nodemon server.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kkrisztiann/backend_1.git"
   },
-  "author": "",
+  "author": "KK",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/kkrisztiann/backend_1/issues"
